@@ -1,23 +1,14 @@
-import React, {useState} from 'react';
+import React from 'react';
+import { AddRegex } from './components/AddRegex';
 import './App.css';
-import { InputRegex } from './components/AddRegex';
-import { Regex } from './components/Regex';
-import { getRegex } from './helpers/getRegex';
 
-function EasyFiddler({ defaultCategories = ['ingresa tu regex'] }) {
+function EasyFiddler() {
 
-  const [URL, setURL] = useState(
-		defaultCategories
-	)
-  const {state} = useGetRegex()
   return (
     <div className="App">
       <h1>Easy Fiddler</h1>
-
-      <InputRegex setRegex={setURL} />
-
-      <Regex urlRegex={URL} />
-
+      <h2>Ingresa tu REGEX</h2>
+      <AddRegex />
     </div>
   );
 }
