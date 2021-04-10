@@ -1,10 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import EasyFiddler from './EasyFiddler';
+import './index.css';
 
-ReactDOM.render(
-    <EasyFiddler />,
-  document.getElementById('root')
-);
+ReactDOM.render(<EasyFiddler />, document.getElementById('root'));
 
