@@ -63,7 +63,6 @@ export const AddRegex = () => {
 					<div className="regex-content animate__animated animate__fadeInRightBig">
 						<i class="fas fa-copy" onClick={handleCopy}></i>
 						<input className="texto-regex" type="text" value={regex}/>
-						<span id="#message"></span>
 					</div>
 				)
 			}
