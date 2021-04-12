@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/easy-fiddler/static/css/main.1c48ceef.chunk.css",
+    "main.js": "/easy-fiddler/static/js/main.7f905665.chunk.js",
+    "main.js.map": "/easy-fiddler/static/js/main.7f905665.chunk.js.map",
+    "runtime-main.js": "/easy-fiddler/static/js/runtime-main.5dd71da3.js",
+    "runtime-main.js.map": "/easy-fiddler/static/js/runtime-main.5dd71da3.js.map",
+    "static/js/2.e3783581.chunk.js": "/easy-fiddler/static/js/2.e3783581.chunk.js",
+    "static/js/2.e3783581.chunk.js.map": "/easy-fiddler/static/js/2.e3783581.chunk.js.map",
+    "index.html": "/easy-fiddler/index.html",
+    "static/css/main.1c48ceef.chunk.css.map": "/easy-fiddler/static/css/main.1c48ceef.chunk.css.map",
+    "static/js/2.e3783581.chunk.js.LICENSE.txt": "/easy-fiddler/static/js/2.e3783581.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dd71da3.js",
+    "static/js/2.e3783581.chunk.js",
+    "static/css/main.1c48ceef.chunk.css",
+    "static/js/main.7f905665.chunk.js"
+  ]
+}
